@@ -9,6 +9,7 @@ DOMAIN-SUFFIX,caldigit.com
 DOMAIN-SUFFIX,plex.tv
 DOMAIN-SUFFIX,time.nist.gov
 DOMAIN-SUFFIX,pool.ntp.org
+DOMAIN-SUFFIX,tinymediamanager.org
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
