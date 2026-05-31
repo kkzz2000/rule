@@ -10,6 +10,7 @@ DOMAIN-SUFFIX,plex.tv
 DOMAIN-SUFFIX,time.nist.gov
 DOMAIN-SUFFIX,pool.ntp.org
 DOMAIN-SUFFIX,tinymediamanager.org
+DOMAIN-SUFFIX,quickconnect.to
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
