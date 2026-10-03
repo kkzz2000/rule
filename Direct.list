@@ -11,6 +11,8 @@ DOMAIN-SUFFIX,time.nist.gov
 DOMAIN-SUFFIX,pool.ntp.org
 DOMAIN-SUFFIX,tinymediamanager.org
 DOMAIN-SUFFIX,quickconnect.to
+DOMAIN-SUFFIX,hp.com
+DOMAIN-SUFFIX,eprintsw.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
